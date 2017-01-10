@@ -6,3 +6,20 @@ description: "My personal Web Site"
 baseurl:     ""
 url:         "http://rafaelbss.github.io"
 date_format: "%-d de %b, %Y"
+
+# Social icons
+github_username: rafaelbss
+bitbucket_username:
+instagram_username: 
+facebook_username: santos.rafaelbs
+stackoverflow_id:
+twitter_username: rafaelbss
+skype_username:
+steam_nickname:
+google_plus_id:
+linkedin_username: 
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
