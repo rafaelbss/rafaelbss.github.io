@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title:       Rafael Santos
+email:       santos.rafaelbs@gmail.com
+author:      Rafael Santos
+description: "My personal Web Site"
+baseurl:     ""
+url:         "http://rafaelbss.github.io"
+date_format: "%-d de %b, %Y"
